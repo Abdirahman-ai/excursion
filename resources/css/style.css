@@ -31,3 +31,10 @@ body{
     color:darkblue;
 }
 
+/* FOOTER */
+.footer--copyright{
+    font-size: 16px;
+    color:darkblue;
+    text-align: right;
+}
+
